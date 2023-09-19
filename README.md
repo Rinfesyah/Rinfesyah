@@ -9,3 +9,11 @@ Experienced in Engineering with a strong foundation in Networking, Radio Frequen
 I also now student at Binus University as Computer Science
 
 If you interst with me , you can follow my [Linkedin](https://www.linkedin.com/in/ridwan-ferdyansyah/).
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Rinfesyah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
